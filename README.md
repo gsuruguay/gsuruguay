@@ -1,7 +1,7 @@
 <img src='https://i.postimg.cc/htNyVTpL/banner-github-readme.png' />
 
 ## ¿Quien soy?
-Soy Desarrollor Web Fullstack Javascript y Php. Durante mi carrera laboral he trabajado para diferentes industrias como banca financiera, seguros, automóviles, electrodomésticos, tecnología, editoriales y otros comercios de diferentes rubros. Soy autodidacta, con fuerte capacidad de aprendizaje, entusiasmo y planificación.
+Soy Desarrollor Web Fullstack, QA Automation Engineer Sr y SDET. Durante mi carrera laboral he trabajado para diferentes industrias como banca financiera, seguros, automóviles, electrodomésticos, tecnología, editoriales y otros comercios de diferentes rubros. Soy autodidacta, con fuerte capacidad de aprendizaje, entusiasmo y planificación.
 ## Skills
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png' width='50px'/>
 <img src='https://i.postimg.cc/wxRxhHyN/nodejs-original-wordmark-logo-icon-146412-1.png' width='50px' />
@@ -17,7 +17,7 @@ Soy Desarrollor Web Fullstack Javascript y Php. Durante mi carrera laboral he tr
 <img src='https://i.postimg.cc/FHVH7Zfn/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud-78285.png' width='50px' />
 
 ## Contáctame
-[<img src='https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw' width='50px'/>](https://www.linkedin.com/in/guillermo-suruguay-qa-automation-engineer/)
+[<img src='https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw' width='50px'/>](https://www.linkedin.com/in/guillermo-suruguay-qa-automation-engineer-sdet/)
 
 # Mis proyectos
 
